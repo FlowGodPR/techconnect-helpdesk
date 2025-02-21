@@ -13,6 +13,3 @@ This project sets up a help desk system for TechConnect Solutions using Zammad a
 
 ## Screenshots  
 All setup screenshots are in the `setup` folder.  
-
-## Submission  
-Project is complete and ready for review.  
